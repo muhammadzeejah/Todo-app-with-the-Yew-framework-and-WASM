@@ -1,0 +1,2 @@
+Yew Todo App
+This project is a simple Todo list application built using the Yew framework, Rust, and WebAssembly (WASM). It allows users to add, edit, delete, and manage tasks efficiently. The app is structured with reusable components for better organization and maintainability.
